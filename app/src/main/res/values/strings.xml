@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">EasyMarkets</string>
+    <string name="action_settings">Settings</string>
+    <string name="filter">Filter</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="book_a_appartment">Book a appartment</string>
+    <string name="filter_appartments">Filter Appartments</string>
+    <string name="bedrooms">Bedrooms:</string>
+    <string name="from_date">From Date:</string>
+    <string name="end_date">End Date:</string>
+    <string name="clear_filter">Clear Filter</string>
+</resources>
